@@ -15,11 +15,12 @@ This repo simply made the following changes:
 ## Usage:
 
 > [!NOTE] 
-You will need ES-DE version 3.2.0 or later plus the latest version of the Colorful Simplified theme installed to use this add-on. 
+You will need ES-DE version 3.2.0 (or later) plus the latest version of the Colorful Simplified theme already downloaded to use this add-on. 
 
 To install:
-1. Download the `system-video-1080p.zip` file from the latest release [here](https://github.com/anthonycaccese/colorful-simplified-es-de-addon_1080p-system-video/releases/latest)
-2. Unzip it into the Colorful Simplified theme directory located at: `ES-DE/themes/colorful-simplified-es-de`
+1. Download the `system-video-1080p.zip` file from this release
+2. Unzip it into the existing Colorful Simplified theme directory located at: `ES-DE/themes/colorful-simplified-es-de`.  
+    - After unzip you should have a new folder called `/theme-addons/system-video/` and that folder will contain the assets needed for this add-on to function (e.g. addon.xml, videos and images)
 3. Then open Menu > UI Settings and set your Theme Color Scheme to: `Add-on (See Readme)`
 
 ## Credits:
