@@ -26,3 +26,4 @@ To install:
 ## Credits:
 
 - All credit for the creation of the system videos goes to [Viking](https://forums.launchbox-app.com/profile/70421-viking/) and others for their work on the original Launchbox theme [[Source](https://forums.launchbox-app.com/files/file/1958-colorful-platform-video-set/)]
+- zip prep: `zip -r system-video-1080p.zip theme-addons -x "*.DS_Store"`
